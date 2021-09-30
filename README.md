@@ -12,3 +12,4 @@ Nesse curso, desenvolvi o projeto Noticias Cidade do curso Desenvolvimento Web C
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5;
+- CSS;
